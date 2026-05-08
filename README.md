@@ -2,41 +2,48 @@
 
 🚀 A feature-rich social media platform built using **MERN Stack (MongoDB, Express, React, Node.js)** that enables users to **create posts, like, comment, follow users, and engage in real-time chat**.
 
-## 📌 Features  
+## 📌 Features
+
 ✅ **User Authentication** (JWT-based secure login/signup)  
 ✅ **Post Creation & Management** (Upload, edit, delete posts)  
 ✅ **Like & Comment System**  
 ✅ **Real-time Chat** (WebSockets integration)  
 ✅ **Follow/Unfollow Users**  
 ✅ **Profile Customization** (Bio, profile picture)  
-✅ **Responsive UI** (Built with Tailwind CSS)  
+✅ **Responsive UI** (Built with Tailwind CSS)
 
-## 🛠 Tech Stack  
-- **Frontend:** React.js, Redux, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Authentication:** JWT, bcrypt.js  
+## 🛠 Tech Stack
+
+- **Frontend:** React.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcrypt.js
 - **Real-time:** WebSockets (Socket.io)
 
 ---
+
 ## 🔗 Live Demo
 
 👉 [Visit SocialConnect](https://social-media-app-gkbm.onrender.com/) on Render
 
 ---
 
-## 📂 Installation & Setup  
+## 📂 Installation & Setup
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/developer-ravi-03/Social-Media-app.git
 
 cd Social-Media-app
 
-npm install 
+npm install
 ```
-### 2️⃣ Set Up Environment variables 
+
+### 2️⃣ Set Up Environment variables
+
 - **.env file name**
+
 ```bash
 PORT=
 
@@ -53,25 +60,26 @@ JWT_SEC = hjdskhwruhdsjshbj (your jwt secret key)
 ```
 
 ### 3️⃣ Navigate to Backend Directory
+
 ```bash
 cd backend
 ```
 
-
-
 ### 4️⃣ Run backend
+
 ```bash
 npm index.js
 ```
 
 ### 5️⃣ Install Frontend Dependencies and Run
+
 ```bash
 npm install
-npm run dev   
+npm run dev
 ```
+
 ---
+
 # 👋 Connect with Me
 
-- 🔗 **LinkedIn** - [ItzRavi](https://www.linkedin.com/in/itzravi/)
-- 🌐 **Portfolio** - [Ravi Kumar](https://portfolio-website-next-hazel.vercel.app/)
-  
+- 🔗 **LinkedIn** - [Abhinav CHAUHAN](https://www.linkedin.com/in/abhinav-chauhan-dev)
